@@ -1,1 +1,1 @@
-alert("fdsfdsf");
+console.log("dsdsd");
